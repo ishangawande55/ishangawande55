@@ -9,7 +9,7 @@
 
 <img alt="Coding" width="450" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" align="right"/>
 
-👋 Hello! I’m Ishan Gawande, a full-stack JavaScript developer with expertise in the MERN stack and blockchain development. I’m passionate about coding and technology, always eager to build and innovate.
+👋  I’m  a full-stack JavaScript developer with expertise in the MERN stack and blockchain development. I’m passionate about coding and technology, always eager to build and innovate.
 
 🌐 I’m continuously enhancing my skills through various projects, learning new technologies, and staying updated with the latest trends in the software world.
 
