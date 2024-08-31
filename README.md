@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&color=09B9E1&width=600&lines=Hi+there%2C+I'm+Ishan+Gawande+%F0%9F%91%8B" alt="Typing SVG">
 </p>
 <p align="center">
-  A enthusiastic MERN 🌱 stack and Blockchain ⛓️ developer 👨🏻‍💻 from India 🇮🇳
+  An enthusiastic MERN 🌱 stack and Blockchain ⛓️ developer 👨🏻‍💻 from India 🇮🇳
 </p>
 
 -----------------------------
