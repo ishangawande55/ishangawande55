@@ -38,7 +38,20 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishangawande55&theme=radical" />
 </p>
 
+-----------------------------
 
+<h3 align="center">My Achievements:</h3>
+<p align="center">
+  <img src="https://images.credly.com/size/680x680/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png" alt="Credly Badge 1" width="150" height="150"/>
+  <img src="https://images.credly.com/size/680x680/images/6f458365-ea60-44e7-acdd-88d9dd114cf2/image.png" alt="Credly Badge 3" width="150" height="150"/>
+  <img src="https://images.credly.com/size/680x680/images/43eabfbc-06d4-4633-9be0-0f56cfbdb607/image.png" alt="Credly Badge 4" width="150" height="150"/>
+  <img src="https://images.credly.com/size/680x680/images/eaaf4a45-b93e-41d1-91d3-d331c6210314/image.png" alt="Credly Badge 5" width="150" height="150"/>
+  <img src="https://images.credly.com/size/680x680/images/3d10b5f5-387d-4cbf-98ec-a418231fb157/image.png" alt="Credly Badge 6" width="150" height="150"/>
+  <img src="https://images.credly.com/images/0180c9c4-1723-4e5d-b38e-c439cd445130/image.png" alt="Credly Badge 7" width="150" height="150"/>
+  <img src="https://images.credly.com/images/c89af72a-6dba-4ce9-a26f-6e9e0d96ae09/image.png" alt="Credly Badge 8" width="150" height="150"/>
+</p>
+
+-----------------------------
 
 ![contributions](https://user-images.githubusercontent.com/99393019/206873716-60aacef7-7215-4d39-9f42-f09b568f2203.svg)
 
